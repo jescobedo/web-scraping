@@ -6,7 +6,7 @@ chardet==3.0.4
 cryptography==2.9.2
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 pycparser==2.20
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.1.0
 PySocks==1.7.1
 python-http-client==3.2.7
